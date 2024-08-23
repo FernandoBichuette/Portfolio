@@ -1,6 +1,6 @@
 # Portfólio de Fernando Bichuette Assumpção
 
-Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica e Engenharia Elétrica, com especialização em Machine Learning pela DeepLearning.AI e Stanford. Este portfólio reúne alguns dos projetos mais significativos que desenvolvi ao longo da minha trajetória acadêmica e profissional.
+Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com especialização em Machine Learning pela DeepLearning.AI e Stanford. Este portfólio reúne alguns dos projetos mais significativos que desenvolvi ao longo da minha trajetória acadêmica e profissional.
 
 ## Projetos
 
