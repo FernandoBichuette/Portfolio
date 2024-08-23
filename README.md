@@ -36,9 +36,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 
 **Resultados:** Robô capaz de jogar xadrez de maneira autônoma com alto nível de precisão.
 
-<div style="text-align: center;">
-    <img src="img/xadrez.gif" alt="Robô Jogador de Xadrez">
-</div>
+<img src="img/xadrez.gif" alt="Robô Jogador de Xadrez" style="display: block; margin: 0 auto;">
 
 ---
 
