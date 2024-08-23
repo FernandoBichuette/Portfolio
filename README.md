@@ -2,102 +2,87 @@
 
 Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com especialização em Machine Learning pela DeepLearning.AI e Stanford. Este portfólio reúne alguns dos projetos mais significativos que desenvolvi ao longo da minha trajetória acadêmica e profissional.
 
+---
+
 ## Projetos
 
-### Desenvolvimento de UGV Autônomo
+### [Desenvolvimento de UGV Autônomo](https://github.com/pfeinsper/unmaned-ground-vehicle-2024.1)
 **Período:** Jan 2024 – Jun 2024
 
-**Descrição:** Desenvolvimento de um UGV (Unmanned Ground Vehicle) autônomo em parceria com a Embrapa para o monitoramento de pulgões em fruticultura e silvicultura. Utilizamos técnicas avançadas em robótica e automação para a construção do veículo, além de ferramentas de gestão para administrar o projeto.
+**Descrição:** Projeto em parceria com a Embrapa para o desenvolvimento de um Veículo Terrestre Não Tripulado (UGV) autônomo, focado no monitoramento de pulgões em fruticultura e silvicultura.
 
-**Tecnologias Utilizadas:** 
-- Python
-- Robótica e Automação
-- Sensores e Atuação
+**Tecnologias Utilizadas:** Python, Robótica e Automação, Sensores LIDAR, GPS, Fusão de Sensores.
 
-**Desafios e Soluções:** Durante o desenvolvimento, enfrentamos desafios na integração dos sensores e na calibração do sistema de navegação. Conseguimos superar esses desafios com o uso de técnicas de controle avançadas.
+**Desafios e Soluções:**
+- **Integração de Sensores:** Superado com a implementação de um sistema de fusão de sensores utilizando filtros de Kalman.
+- **Calibração de Navegação:** Ajustes de suspensão e algoritmos de controle adaptativo para estabilidade em terrenos acidentados.
+- **Eficiência Energética:** Gerenciamento de energia otimizado com painéis solares e software de controle.
+- **Comunicação de Dados:** Sistema de comunicação em rede mesh para transmissão estável de dados.
 
-**Resultado:** O projeto resultou em um veículo totalmente funcional e autônomo, capaz de realizar o monitoramento em campo de forma precisa e eficiente.
-
-**Aprendizado:** Este projeto me permitiu aprimorar minhas habilidades em robótica, programação e gestão de projetos complexos.
+**Resultados:** Veículo autônomo funcional, testado em campo, operando de forma autônoma por longos períodos.
 
 ---
 
-### Robô Jogador de Xadrez
+### [Robô Jogador de Xadrez](https://github.com/FernandoBichuette/Projeto-Xadrez.git)
 **Período:** Ago 2023 – Dez 2023
 
-**Descrição:** Projeto de um robô jogador de xadrez que integra visão computacional e a engine Stockfish para interpretar jogadas adversárias.
+**Descrição:** Desenvolvimento de um robô jogador de xadrez que integra visão computacional e a engine Stockfish para interpretar e responder às jogadas do adversário.
 
-**Tecnologias Utilizadas:** 
-- Python
-- Visão Computacional
-- Processamento de Imagem
+**Tecnologias Utilizadas:** Python, Visão Computacional, Processamento de Imagem, Stockfish.
 
-**Desafios e Soluções:** Implementar uma detecção precisa das peças e suas posições foi desafiador, mas conseguimos uma alta precisão utilizando técnicas avançadas de processamento de imagem.
+**Desafios e Soluções:**
+- **Detecção de Peças e Posições:** Implementação de técnicas avançadas de processamento de imagem para alta precisão.
+- **Integração com Stockfish:** Sincronização entre a detecção de peças e a engine de xadrez para jogadas automáticas.
 
-**Resultado:** Um robô capaz de jogar xadrez de maneira autônoma, interpretando e respondendo às jogadas do adversário.
-
-**Aprendizado:** Este projeto expandiu minhas habilidades em visão computacional e inteligência artificial aplicada.
+**Resultados:** Robô capaz de jogar xadrez de maneira autônoma com alto nível de precisão.
 
 ---
 
-### Automação de Linha de Montagem
+### [Automação de Linha de Montagem](https://github.com/FernandoBichuette/automation_project)
 **Período:** Jan 2023 – Jun 2023
 
-**Descrição:** Otimização de uma linha de montagem de dispositivos eletrônicos utilizando a Pirâmide da Automação e criação de um Digital Twin.
+**Descrição:** Projeto focado na otimização de uma linha de montagem de dispositivos eletrônicos, utilizando a Pirâmide da Automação e a criação de um Digital Twin.
 
-**Tecnologias Utilizadas:** 
-- CLPs
-- SCADA
-- MES
+**Tecnologias Utilizadas:** CLPs, SCADA, MES, Digital Twin.
 
-**Desafios e Soluções:** A integração dos sistemas de controle e a criação do Digital Twin representaram desafios significativos, resolvidos através de uma abordagem iterativa e de testes contínuos.
+**Desafios e Soluções:**
+- **Integração de Sistemas de Controle:** Desenvolvimento de soluções para a comunicação eficiente entre diferentes níveis de automação.
+- **Criação do Digital Twin:** Simulação precisa da linha de montagem para otimização dos processos.
 
-**Resultado:** Um sistema de automação eficiente, com monitoramento completo de disponibilidade, ritmo e qualidade.
-
-**Aprendizado:** Ganhei uma compreensão profunda dos sistemas de automação industrial e da importância de uma boa integração entre hardware e software.
+**Resultados:** Sistema de automação eficiente com monitoramento e controle de disponibilidade, desempenho e qualidade.
 
 ---
 
-### Máquina Pipetadora Automática
+### [Máquina Pipetadora Automática](https://github.com/FernandoBichuette/Projeto-Mecatronico)
 **Período:** Ago 2022 – Dez 2022
 
-**Descrição:** Desenvolvimento de uma máquina pipetadora automática para laboratórios, otimizando processos de pipetagem.
+**Descrição:** Desenvolvimento de uma máquina pipetadora automática para otimizar processos laboratoriais.
 
-**Tecnologias Utilizadas:** 
-- Mecânica de Precisão
-- Eletrônica Integrada
-- Desenvolvimento de Software
+**Tecnologias Utilizadas:** Mecânica de Precisão, Eletrônica Integrada, Desenvolvimento de Software.
 
-**Desafios e Soluções:** Os cálculos de dimensionamento mecânico e a integração de componentes eletrônicos foram desafios superados com uma abordagem detalhada de planejamento e prototipagem.
+**Desafios e Soluções:**
+- **Dimensionamento Mecânico:** Realização de cálculos precisos e ajustes durante a fase de prototipagem.
+- **Integração Eletrônica:** Sincronização entre os componentes mecânicos e eletrônicos para uma operação precisa.
 
-**Resultado:** Um protótipo funcional que automatiza processos laboratoriais com alta precisão.
-
-**Aprendizado:** Este projeto me ajudou a desenvolver habilidades multidisciplinares, integrando mecânica, eletrônica e software.
+**Resultados:** Protótipo funcional que melhora a eficiência e a precisão em processos de pipetagem.
 
 ---
 
-### Análise e Modelagem Preditiva do Mercado Imobiliário
+### [Análise e Modelagem Preditiva do Mercado Imobiliário](https://github.com/arthurfc12/Projeto3CDados)
 **Período:** Ago 2019 – Dez 2019
 
-**Descrição:** Análise exploratória e modelagem preditiva do mercado imobiliário de São Paulo, utilizando técnicas de Machine Learning.
+**Descrição:** Análise exploratória e modelagem preditiva do mercado imobiliário de São Paulo utilizando técnicas de Machine Learning.
 
-**Tecnologias Utilizadas:** 
-- Python
-- Random Forest
-- Análise de Dados
+**Tecnologias Utilizadas:** Python, Random Forest, Análise de Dados.
 
-**Desafios e Soluções:** A segmentação da base de dados e a escolha do modelo de classificação foram desafios importantes, resolvidos através de testes e validações rigorosas.
+**Desafios e Soluções:**
+- **Segmentação de Dados:** Análise cuidadosa dos dados para identificação de padrões e criação de um modelo preditivo eficiente.
+- **Escolha do Modelo:** Implementação e validação de diferentes modelos de machine learning para otimização dos resultados.
 
-**Resultado:** Um modelo eficiente para a classificação e análise de propriedades, oferecendo insights valiosos sobre as dinâmicas do setor imobiliário.
-
-**Aprendizado:** Aprofundei meus conhecimentos em análise de dados e machine learning, aplicando-os em um contexto real de mercado.
+**Resultados:** Modelo preditivo eficiente que oferece insights valiosos sobre as dinâmicas do mercado imobiliário em São Paulo.
 
 ---
-
-## Sobre Mim
-Sou apaixonado por inovações tecnológicas, automação e ciência de dados. Tenho experiência em Python, C/C++, Matlab/Simulink, SQL, VBA, Power BI, Siemens NX e Autodesk Fusion 360.
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/fernando-bichuette-assumpcao/)
-- [GitHub](https://github.com/FernandoBichuette)
-- Email: fernandobichuette@gmail.com
+- [GitHub](https://github.com/FernandoBi
