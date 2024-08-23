@@ -35,7 +35,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 - **Integração com Stockfish:** Sincronização entre a detecção de peças e a engine de xadrez para jogadas automáticas.
 
 **Resultados:** Robô capaz de jogar xadrez de maneira autônoma com alto nível de precisão.
-
+![Robô Jogador de Xadrez](img/xadrez.gif)
 ---
 
 ### [Automação de Linha de Montagem](https://github.com/FernandoBichuette/automation_project)
