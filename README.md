@@ -20,6 +20,9 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 - **Comunicação de Dados:** Sistema de comunicação em rede mesh para transmissão estável de dados.
 
 **Resultados:** Veículo autônomo funcional, testado em campo, operando de forma autônoma por longos períodos.
+<p align="center">
+<img src="img/Rover1.png" width="400px" />     <img src="img/Rover2.png" width="283px" />
+</p>
 
 ---
 
@@ -36,7 +39,9 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 
 **Resultados:** Robô capaz de jogar xadrez de maneira autônoma com alto nível de precisão.
 
-<img src="img/xadrez.gif" alt="Robô Jogador de Xadrez" style="display: block; margin: 0 auto;">
+<p align="center">
+  <img src="img/xadrez.gif" alt="animated" />
+</p>
 
 ---
 
