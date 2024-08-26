@@ -92,4 +92,4 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/fernando-bichuette-assumpcao/)
-- [GitHub](https://github.com/FernandoBi
+- [GitHub](https://github.com/FernandoBichuette)
