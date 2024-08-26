@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica. Este p
 ## Projetos
 
 
-### Dashboard de Vendas com Power BI
+### [Dashboard de Vendas com Power BI](https://github.com/FernandoBichuette/Portfolio/tree/main/PowerBI)
 
 
 **Descrição:** Este projeto envolveu a criação de um dashboard interativo de vendas utilizando Power BI. O objetivo foi transformar dados brutos em insights visuais claros e informativos, abrangendo várias métricas de vendas, como receita total, desempenho por região e análise de tendências ao longo do tempo.
