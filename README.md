@@ -6,8 +6,25 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 
 ## Projetos
 
+
+### [### Dashboard de Vendas com Power BI
+**Período:** [Insira o período de desenvolvimento do projeto]
+
+**Descrição:** Este projeto envolveu a criação de um dashboard interativo de vendas utilizando Power BI. O objetivo foi transformar dados brutos em insights visuais claros e informativos, abrangendo várias métricas de vendas, como receita total, desempenho por região e análise de tendências ao longo do tempo.
+
+**Tecnologias Utilizadas:** Power BI, Visualização de Dados, Business Intelligence
+
+**Desafios e Soluções:**
+- **Transformação de Dados:** Um dos principais desafios foi a limpeza e preparação dos dados para análise. Diversas transformações foram aplicadas para garantir a precisão e consistência dos dados, incluindo a remoção de duplicatas, tratamento de valores nulos e formatação de datas.
+- **Criação de Visuais Impactantes:** Criar visuais que fossem informativos e visualmente atraentes foi essencial. Utilizando as funcionalidades avançadas do Power BI, foram desenvolvidos gráficos dinâmicos e interativos que facilitam a compreensão dos dados.
+- **Automatização de Relatórios:** Implementação de funções DAX para automatizar o cálculo de métricas e criar relatórios que se atualizam automaticamente conforme os dados são modificados.
+
+**Resultados:** O dashboard final fornece uma visão abrangente das vendas, permitindo aos usuários explorar os dados de forma interativa e obter insights valiosos sobre o desempenho de vendas em diferentes regiões e períodos. Este projeto demonstrou habilidades avançadas em Power BI, incluindo a manipulação de dados e a criação de visualizações eficazes.
+
+![Dashboard de Vendas](img/dashboard)
+
+
 ### [Desenvolvimento de UGV Autônomo](https://github.com/pfeinsper/unmaned-ground-vehicle-2024.1)
-**Período:** Jan 2024 – Jun 2024
 
 **Descrição:** Projeto em parceria com a Embrapa para o desenvolvimento de um Veículo Terrestre Não Tripulado (UGV) autônomo, focado no monitoramento de pulgões em fruticultura e silvicultura.
 
@@ -46,7 +63,6 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 ---
 
 ### [Automação de Linha de Montagem](https://github.com/FernandoBichuette/automation_project)
-**Período:** Jan 2023 – Jun 2023
 
 **Descrição:** Projeto focado na otimização de uma linha de montagem de dispositivos eletrônicos, utilizando a Pirâmide da Automação e a criação de um Digital Twin.
 
@@ -61,7 +77,6 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 ---
 
 ### [Máquina Pipetadora Automática](https://github.com/FernandoBichuette/Projeto-Mecatronico)
-**Período:** Ago 2022 – Dez 2022
 
 **Descrição:** Desenvolvimento de uma máquina pipetadora automática para otimizar processos laboratoriais.
 
@@ -76,7 +91,6 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 ---
 
 ### [Análise e Modelagem Preditiva do Mercado Imobiliário](https://github.com/arthurfc12/Projeto3CDados)
-**Período:** Ago 2019 – Dez 2019
 
 **Descrição:** Análise exploratória e modelagem preditiva do mercado imobiliário de São Paulo utilizando técnicas de Machine Learning.
 
