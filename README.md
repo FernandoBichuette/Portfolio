@@ -7,8 +7,8 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 ## Projetos
 
 
-### [### Dashboard de Vendas com Power BI]
-**Período:** [Insira o período de desenvolvimento do projeto]
+### Dashboard de Vendas com Power BI
+
 
 **Descrição:** Este projeto envolveu a criação de um dashboard interativo de vendas utilizando Power BI. O objetivo foi transformar dados brutos em insights visuais claros e informativos, abrangendo várias métricas de vendas, como receita total, desempenho por região e análise de tendências ao longo do tempo.
 
@@ -21,7 +21,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica, com es
 
 **Resultados:** O dashboard final fornece uma visão abrangente das vendas, permitindo aos usuários explorar os dados de forma interativa e obter insights valiosos sobre o desempenho de vendas em diferentes regiões e períodos. Este projeto demonstrou habilidades avançadas em Power BI, incluindo a manipulação de dados e a criação de visualizações eficazes.
 
-![Dashboard de Vendas](img/dashboard)
+![Dashboard de Vendas](img/dashboard.png)
 
 
 ### [Desenvolvimento de UGV Autônomo](https://github.com/pfeinsper/unmaned-ground-vehicle-2024.1)
