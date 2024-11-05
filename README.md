@@ -73,6 +73,9 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica. Este p
 
 **Resultados:** Protótipo funcional que melhora a eficiência e a precisão em processos de pipetagem.
 
+<p align="center">
+<img src="img/Pipetadora_Automatica.jpg" width="400px" />     <img src="img/Pipetadora_Automatica_Video.mp4" width="283px" />
+</p>
 ---
 ### [Automação de Linha de Montagem](https://github.com/FernandoBichuette/automation_project)
 
