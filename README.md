@@ -74,7 +74,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica. Este p
 **Resultados:** Protótipo funcional que melhora a eficiência e a precisão em processos de pipetagem.
 
 <p align="center">
-<img src="img/Pipetadora_automatica.jpg" width="400px" />     <img src="img/Pipetadora_automatica_video.mp4" width="283px" />
+<img src="img/Pipetadora_automatica.jpg" width="300px" />     <img src="img/Pipetadora_automatica_2.jpg" width="225px" />
 </p>
 
 ---
