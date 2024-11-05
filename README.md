@@ -61,21 +61,6 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica. Este p
 </p>
 
 ---
-
-### [Automação de Linha de Montagem](https://github.com/FernandoBichuette/automation_project)
-
-**Descrição:** Projeto focado na otimização de uma linha de montagem de dispositivos eletrônicos, utilizando a Pirâmide da Automação e a criação de um Digital Twin.
-
-**Tecnologias Utilizadas:** CLPs, SCADA, MES, Digital Twin.
-
-**Desafios e Soluções:**
-- **Integração de Sistemas de Controle:** Desenvolvimento de soluções para a comunicação eficiente entre diferentes níveis de automação.
-- **Criação do Digital Twin:** Simulação precisa da linha de montagem para otimização dos processos.
-
-**Resultados:** Sistema de automação eficiente com monitoramento e controle de disponibilidade, desempenho e qualidade.
-
----
-
 ### [Máquina Pipetadora Automática](https://github.com/FernandoBichuette/Projeto-Mecatronico)
 
 **Descrição:** Desenvolvimento de uma máquina pipetadora automática para otimizar processos laboratoriais.
@@ -87,6 +72,19 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica. Este p
 - **Integração Eletrônica:** Sincronização entre os componentes mecânicos e eletrônicos para uma operação precisa.
 
 **Resultados:** Protótipo funcional que melhora a eficiência e a precisão em processos de pipetagem.
+
+---
+### [Automação de Linha de Montagem](https://github.com/FernandoBichuette/automation_project)
+
+**Descrição:** Projeto focado na otimização de uma linha de montagem de dispositivos eletrônicos, utilizando a Pirâmide da Automação e a criação de um Digital Twin.
+
+**Tecnologias Utilizadas:** CLPs, SCADA, MES, Digital Twin.
+
+**Desafios e Soluções:**
+- **Integração de Sistemas de Controle:** Desenvolvimento de soluções para a comunicação eficiente entre diferentes níveis de automação.
+- **Criação do Digital Twin:** Simulação precisa da linha de montagem para otimização dos processos.
+
+**Resultados:** Sistema de automação eficiente com monitoramento e controle de disponibilidade, desempenho e qualidade.
 
 ---
 
