@@ -76,7 +76,9 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica. Este p
 <p align="center">
 <img src="img/Pipetadora_automatica.jpg" width="400px" />     <img src="img/Pipetadora_automatica_video.mp4" width="283px" />
 </p>
+
 ---
+
 ### [Automação de Linha de Montagem](https://github.com/FernandoBichuette/automation_project)
 
 **Descrição:** Projeto focado na otimização de uma linha de montagem de dispositivos eletrônicos, utilizando a Pirâmide da Automação e a criação de um Digital Twin.
