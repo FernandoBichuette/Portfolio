@@ -91,6 +91,8 @@ Bem-vindo ao meu portfólio! Sou um estudante de Engenharia Mecatrônica. Este p
 
 **Resultados:** Sistema de automação eficiente com monitoramento e controle de disponibilidade, desempenho e qualidade.
 
+***Link do resultado final:*** https://www.youtube.com/watch?v=bG43Epv7mO8
+
 ---
 
 ### [Análise e Modelagem Preditiva do Mercado Imobiliário](https://github.com/arthurfc12/Projeto3CDados)
